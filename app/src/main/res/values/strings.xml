@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Student Directory</string>
+    <string name="hello_text">Hello, students!</string>
+    <string name="list_studs_text">List of students</string>
+    <string name="btn_text">Show list of students</string>
+    <string name="btn_send">Send a message</string>
+    <string name="timer">Timer</string>
+    <string name="plus_txt">Enlarge text</string>
+    <string-array name="students_groups">
+        <item> 301 </item>
+        <item> 302 </item>
+        <item> 303 </item>
+        <item> 308 </item>
+        <item> 309 </item>
+        <item> 571 </item>
+    </string-array>
+    <string name="grp_number_txt">Group number:</string>
+    <string name="faculty_txt">Faculty</string>
+    <string name="btn_ok_txt">OK</string>
+    <string name="btn_grp_detail_txt">View details</string>
+
+    <string name="edu_level_txt">Education level: </string>
+    <string name="edu_level_bachelor_txt">bachelor</string>
+    <string name="edu_level_master_txt">master</string>
+
+    <string name="additional_flg_txt">Additional statements: </string>
+    <string name="contract_flg_txt">students on a contract</string>
+    <string name="privilege_flg_txt">students with benefits</string>
+</resources>
